@@ -60,7 +60,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/mesbah.jpg" 
+                      src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop&crop=face" 
                       alt="الشيخ مصباح عبدالمنجي الدكاني"
                       className="w-12 h-12 rounded-full object-cover border-2 border-yellow-300 shadow-lg"
                     />
@@ -107,7 +107,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/eslam.jpg" 
+                      src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop&crop=face" 
                       alt="الاستاذ اسلام سعيد الشقيدي"
                       className="w-12 h-12 rounded-full object-cover border-2 border-green-300 shadow-lg"
                     />
@@ -154,7 +154,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                 }`}>
                   <div className="flex items-center gap-4">
                     <img 
-                      src="/src/assets/me.jpg" 
+                      src="https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop&crop=face" 
                       alt="احمد طارق عبدالهادي علي الدين"
                       className="w-12 h-12 rounded-full object-cover border-2 border-purple-300 shadow-lg"
                     />

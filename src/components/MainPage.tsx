@@ -155,7 +155,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
             className="text-2xl md:text-3xl font-bold text-white mb-6 animate-slideInUp glowing-text"
             style={{ animationDelay: "0.2s" }}
           >
-            مسابقه المولد النبوي الشريف بالجامع الشرقي
+            مسابقه المولد النبوي الشريف بدار المناسبات بالجامع الشرقي
           </h3>
 
           <div className="flex justify-center items-center gap-3 mb-6 animate-fadeInScale">
@@ -297,7 +297,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 textShadow: '0 0 20px rgba(255, 193, 7, 0.8), 0 0 40px rgba(255, 193, 7, 0.6), 0 0 60px rgba(255, 255, 255, 0.4)',
                 fontFamily: 'Noto Sans Arabic, serif'
               }}>
-                "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا"
+                دار المناسبات بالجامع الشرقي - دمليج
               </p>
               
               <div className="flex justify-center items-center gap-2 mb-4">
@@ -502,7 +502,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
                 rel="noopener noreferrer"
                 className="text-white hover:text-yellow-300 transition-colors font-semibold text-lg block text-center"
               >
-                الجامع الشرقي، دمليج، منوف، المنوفية
+                دار المناسبات بالجامع الشرقي، دمليج، منوف، المنوفية
               </a>
             </div>
 

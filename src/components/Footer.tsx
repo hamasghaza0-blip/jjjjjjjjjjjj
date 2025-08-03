@@ -207,7 +207,7 @@ export const Footer: React.FC<FooterProps> = ({ isDarkMode = false }) => {
                     rel="noopener noreferrer"
                     className="text-blue-100 hover:text-white transition-colors font-medium"
                   >
-                    الجامع الشرقي، دمليج، منوف، المنوفية
+                    دار المناسبات بالجامع الشرقي، دمليج، منوف، المنوفية
                   </a>
                 </div>
               </div>

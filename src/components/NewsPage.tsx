@@ -52,7 +52,7 @@ export const NewsPage: React.FC<NewsPageProps> = ({ isDarkMode = false }) => {
       id: 1,
       title: 'بدء التسجيل في مسابقة المولد النبوي الشريف',
       content: 'نعلن عن بدء التسجيل في مسابقة المولد النبوي الشريف للعام 2025. يمكن للطلاب من جميع الأعمار التسجيل في الفئات المختلفة.',
-      date: new Date('2025-01-15'),
+      date: new Date('2025-06-15'),
       type: 'announcement',
       important: true
     },
@@ -60,15 +60,15 @@ export const NewsPage: React.FC<NewsPageProps> = ({ isDarkMode = false }) => {
       id: 2,
       title: 'تحديث مواعيد الاختبارات',
       content: 'تم تحديث جدول مواعيد الاختبارات. يرجى مراجعة الجدول الجديد والتأكد من المواعيد.',
-      date: new Date('2025-01-10'),
+      date: new Date('2025-07-25'),
       type: 'update',
       important: false
     },
     {
       id: 3,
       title: 'تذكير: آخر موعد للتسجيل',
-      content: 'نذكركم أن آخر موعد للتسجيل في المسابقة هو نهاية الشهر الجاري. لا تفوتوا الفرصة!',
-      date: new Date('2025-01-08'),
+      content: 'يرجي التسجيل في اقرب وقت عن طريق المحفظ الخاص بكم او التواصل مباشره مع اداره المسابقه لو كان المحفظ ولي الامر',
+      date: new Date('2025-08-01'),
       type: 'reminder',
       important: true
     }

@@ -217,7 +217,7 @@ export const ExamSchedule: React.FC<ExamScheduleProps> = ({ isDarkMode = false }
             <Timer className="w-12 h-12 text-purple-600 animate-spin-slow" />
           </div>
           <p className={`text-xl mb-6 ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-            مواعيد اختبارات مسابقة المولد النبوي الشريف بالجامع الشرقي
+            مواعيد اختبارات مسابقة المولد النبوي الشريف بدار المناسبات بالجامع الشرقي
           </p>
           <div className={`border rounded-xl p-4 max-w-2xl mx-auto transition-colors duration-300 ${
             isDarkMode 

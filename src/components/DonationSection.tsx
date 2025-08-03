@@ -24,7 +24,7 @@ export const DonationSection: React.FC<DonationSectionProps> = ({ isDarkMode = f
               <Heart className="w-12 h-12 text-red-500 animate-pulse" style={{ animationDelay: '0.5s' }} />
             </div>
             <p className={`text-xl mb-6 ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>
-              للتبرع بمصاحف للقرآن الكريم أو للتبرع مادي
+              للتبرع بمصاحف للقرآن الكريم أو للتبرع ماديا
             </p>
           </div>
 
@@ -103,7 +103,7 @@ export const DonationSection: React.FC<DonationSectionProps> = ({ isDarkMode = f
                   className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-6 py-3 rounded-full font-bold hover:from-blue-600 hover:to-blue-700 transition-all duration-300 transform hover:scale-105 shadow-lg"
                 >
                   <CreditCard className="w-5 h-5" />
-                  اضغط للتبرع مباشرة
+                  انستاباي
                 </a>
               </div>
             </div>

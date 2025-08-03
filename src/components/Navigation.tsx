@@ -89,7 +89,7 @@ export const Navigation: React.FC<NavigationProps> = ({ currentPage, onNavigate,
             </div>
             <div>
               <h1 className={`text-xl font-bold ${isDarkMode ? 'text-gray-100' : 'text-gray-800'}`}>مسابقة المولد النبوي</h1>
-              <p className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>الجامع الشرقي - دمليج</p>
+              <p className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>دار المناسبات بالجامع الشرقي - دمليج</p>
             </div>
           </div>
           

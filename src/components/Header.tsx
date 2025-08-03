@@ -33,12 +33,12 @@ export const Header: React.FC<HeaderProps> = ({ isDarkMode = false }) => {
           <div className="flex justify-center items-center gap-3 mb-4 animate-slideInDown">
             <Trophy className="w-12 h-12 text-yellow-300 animate-bounce-slow trophy-glow" />
             <h1 className="text-4xl md:text-5xl font-bold gradient-text-animated glowing-text">
-              مسابقه المولد النبوي الشريف بالجامع الشرقي
+              مسابقه المولد النبوي الشريف بدار المناسبات بالجامع الشرقي
             </h1>
             <Trophy className="w-12 h-12 text-yellow-300 animate-bounce-slow trophy-glow" style={{ animationDelay: '0.5s' }} />
           </div>
           <p className="text-xl md:text-2xl text-blue-100 mb-6 animate-slideInUp subtitle-glow">
-            مسابقه القران الكريم بالجامع الشرقي لعام ٢٠٢٥
+            مسابقه القران الكريم بدار المناسبات بالجامع الشرقي لعام ٢٠٢٥
           </p>
           <div className="flex flex-wrap justify-center gap-6 text-sm md:text-base animate-fadeInScale">
             <div className="flex items-center gap-2 bg-white/10 px-4 py-2 rounded-full hover-glow animate-pulse-soft">

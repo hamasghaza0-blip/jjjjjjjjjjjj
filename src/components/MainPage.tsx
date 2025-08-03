@@ -161,7 +161,7 @@ export const MainPage: React.FC<MainPageProps> = ({ onNavigate, isDarkMode = fal
           <div className="flex justify-center items-center gap-3 mb-6 animate-fadeInScale">
             <div className="w-8 h-0.5 bg-gradient-to-r from-transparent to-yellow-300"></div>
             <p className="text-xl md:text-2xl text-blue-100 font-semibold">
-              الجامع الشرقي - دمليج
+              دار المناسبات بالجامع الشرقي - دمليج
             </p>
             <div className="w-8 h-0.5 bg-gradient-to-l from-transparent to-yellow-300"></div>
           </div>
